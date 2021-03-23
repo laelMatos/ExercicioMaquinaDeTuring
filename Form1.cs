@@ -81,6 +81,12 @@ namespace MaquinaDeTuring
             return saida;
         }
 
+        /// <summary>
+        /// Gera uma string de '#' marcando a posição lida com caractere '*'
+        /// </summary>
+        /// <param name="posi">posição atual</param>
+        /// <param name="valor">string todos os caracteres</param>
+        /// <returns></returns>
         private string position(int posi, string valor)
         {
             char[] carac = valor.Replace(' ', '#').ToArray<char>();
@@ -91,6 +97,11 @@ namespace MaquinaDeTuring
             return t.Replace("+", (posi+1).ToString());
         }
 
+        /// <summary>
+        /// Converte um array de caracteres em uma string
+        /// </summary>
+        /// <param name="val_Result">Array para ser convertido em string</param>
+        /// <returns></returns>
         private string SetText(char[] val_Result)
         {
             string result = "";
@@ -100,6 +111,10 @@ namespace MaquinaDeTuring
             }
             return result;
         }
+
+        /// <summary>
+        /// Apresenta os valores de Resul e proc para o usuario
+        /// </summary>
         private void view()
         {
             if (!string.IsNullOrEmpty(Resul))
@@ -108,7 +123,10 @@ namespace MaquinaDeTuring
                 this.Resultado.Text = proc;
             }
         }
-        
+
+        /// <summary>
+        /// Função com execução por ciclo pre definido, metodo assincrono (Thread)
+        /// </summary>
         private void timer1_Tick(object sender, EventArgs e)
         {
 
@@ -146,6 +164,7 @@ namespace MaquinaDeTuring
                 view();
                 timer1.Stop();
             }
+
 
             this.Resul = SetText(Vsoma);
             this.proc = this.posicoes.Replace(this.caratere, ' ');
