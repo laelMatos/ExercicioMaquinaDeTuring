@@ -95,6 +95,7 @@ namespace MaquinaDeTuring
             string t = SetText(carac);
             //inserir o valor da posição varrida
             return t.Replace("+", (posi+1).ToString());
+
         }
 
         /// <summary>
@@ -163,6 +164,7 @@ namespace MaquinaDeTuring
                 this.proc = position(indice, proc);
                 view();
                 timer1.Stop();
+                return;
             }
 
 

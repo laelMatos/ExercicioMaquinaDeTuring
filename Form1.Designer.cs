@@ -89,7 +89,7 @@ namespace MaquinaDeTuring
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(314, 127);
+            this.ClientSize = new System.Drawing.Size(314, 115);
             this.Controls.Add(this.Bt_iniciar);
             this.Controls.Add(this.Resultado);
             this.Controls.Add(this.Entrada);
