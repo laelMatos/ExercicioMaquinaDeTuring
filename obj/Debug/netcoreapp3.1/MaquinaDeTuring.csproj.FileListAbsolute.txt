@@ -1,0 +1,15 @@
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.exe
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.deps.json
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.runtimeconfig.json
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.runtimeconfig.dev.json
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.dll
+D:\repos\Cadastro\MaquinaDeTuring\bin\Debug\netcoreapp3.1\MaquinaDeTuring.pdb
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.csprojAssemblyReference.cache
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.Form1.resources
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.csproj.GenerateResource.cache
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.AssemblyInfoInputs.cache
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.AssemblyInfo.cs
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.csproj.CoreCompileInputs.cache
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.dll
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.pdb
+D:\repos\Cadastro\MaquinaDeTuring\obj\Debug\netcoreapp3.1\MaquinaDeTuring.genruntimeconfig.cache
